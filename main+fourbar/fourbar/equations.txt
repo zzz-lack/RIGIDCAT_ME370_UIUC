@@ -1,0 +1,10 @@
+﻿"fi"=4.6
+"b0"= 75.6'ground
+"b1"= "b0" *1.4/ 2'rocker
+"width"=15
+"depth"=5
+"b2"= "b0"'coupler
+"b3"= "b0" / 2'coupler
+"b4"= "b0" *2'leg
+"angle"= 90度'左右cranker夹角
+"b5"=("b2"^2+"b4"^2)^0.5'斜边
