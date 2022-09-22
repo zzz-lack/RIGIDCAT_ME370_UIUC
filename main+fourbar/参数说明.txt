@@ -1,7 +1,0 @@
-参数位置：main+fourbar\fourbar\equations.txt
-
-来源于
-https://www.diywalkers.com/4-bar-walking-linkage.html
-具体标识在图片：main+fourbar\fourbar\参数标识.png
-我不确定ground的长度
-
