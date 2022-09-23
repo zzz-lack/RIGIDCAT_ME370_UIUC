@@ -6,5 +6,7 @@
 "b2"= "b0"'coupler
 "b3"= "b0" / 2'coupler
 "b4"= "b0" *2'leg
-"angle"= 90度'左右cranker夹角
+"angle"= 40*pi/180'ground水平夹角
 "b5"=("b2"^2+"b4"^2)^0.5'斜边
+"boff" = "b0" * sin ( "angle" / 2 ) * 2
+
